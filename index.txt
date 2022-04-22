@@ -1,3 +1,5 @@
 today is the day
 second commit
 new add
+apple
+orange
